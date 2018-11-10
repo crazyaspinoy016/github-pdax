@@ -1,0 +1,12 @@
+{
+  "name": "Seth Simon Martinez",
+  "balances": [
+    {
+      "symbol": "PHP",
+      "balance": 10000
+    }, {
+      "symbol": "TCN",
+      "balance": 3500
+    }
+  ]
+}
